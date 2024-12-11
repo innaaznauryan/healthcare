@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fullName": "Amaliya Kartarova",
+    "position": "doctor",
+    "isHead": true,
+    "departmentId": 1
+  },
+  {
+    "id": 2,
+    "fullName": "Yevgeny Benetov",
+    "position": "doctor",
+    "isHead": false,
+    "departmentId": 1
+  },
+  {
+    "id": 3,
+    "fullName": "Sofya Richardova",
+    "position": "nurse",
+    "isHead": false,
+    "departmentId": 1
+  },
+  {
+    "id": 4,
+    "fullName": "Lyam Genderson",
+    "position": "doctor",
+    "isHead": false,
+    "departmentId": 2
+  },
+  {
+    "id": 5,
+    "fullName": "Noyah Patelov",
+    "position": "doctor",
+    "isHead": true,
+    "departmentId": 2
+  },
+  {
+    "id": 6,
+    "fullName": "Oliviya Martinova",
+    "position": "nurse",
+    "isHead": false,
+    "departmentId": 2
+  }
+]
