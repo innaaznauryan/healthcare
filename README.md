@@ -1,5 +1,7 @@
 ## Medical Project
-A modern medical management app featuring CRUD operations. Built for efficiency and scalability with a clean, responsive design.
+A modern medical management app featuring CRUD operations. Built for efficiency and scalability with a clean, responsive design.  
+
+Live demo version: [here](https://healthcare-departments.netlify.app/)
 
 #### Tech Stack
 - Framework: Vue 3 (Composition API)
